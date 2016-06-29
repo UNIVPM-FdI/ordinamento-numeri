@@ -81,7 +81,7 @@ void QuickSort(int v[],int n)
 	QuickSort0(v,0,n-1);
 }
 
-void Fabiosort(int v[],int num){
+void Fabiosort(int v[],int num){ // "per chi non si ricorda come si fa il bubbleosrt"
  int appoggio;
  for (int i=0;i<num;i++){
   for (int j=0;j<num;j++){
