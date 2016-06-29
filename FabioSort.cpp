@@ -10,3 +10,4 @@ void Ordina (int v[],int num){
   }
  }
 }
+//Questo è l'ordinamento più semplice possibile da ricordare, poiché utilizza due cicli identici ed un if, oltre agli scambi.
