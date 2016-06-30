@@ -11,3 +11,4 @@ void Ordina (int v[],int num){
  }
 }
 //Questo è l'ordinamento più semplice possibile da ricordare, poiché utilizza due cicli identici ed un if, oltre agli scambi.
+//Si tratta di una versione modificata del bubblesort dal quale driva e rispetto al quale è leggermente più veloce.
